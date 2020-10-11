@@ -9,7 +9,9 @@ The purpose of this is to provide practice to develop a personal portfolio with 
 
 ## Page sample
 Below is a sample of one of this website's pages:
-![Main Page](./images/_Users_hectorgarciamillares_PROJECTS_Week2_HW_responsive.portfolio_index.html (1).png)
+![Main Page] (/images/_Users_hectorgarciamillares_PROJECTS_Week2_HW_responsive.portfolio_index.html (1).png)
+
+Link to the website: https://hector-gm.github.io/responsive.portfolio/
 
 ## Credits
 
