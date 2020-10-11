@@ -1,5 +1,20 @@
-.navbar-brand { background-color: #3bb38c;
-                color: white;
-            }
-h1 {margin-bottom: auto;
-    border-bottom: black;}
+/* Style for Navigation Bar in all pages*/
+.navbar-brand { background-color:lightgreen;
+                font-weight: bold;
+                color:rgb(163, 53, 206);
+    }
+/* Padding for content in our pages*/
+section{ padding-top: 50px;
+        padding-bottom: 50px;
+    }
+/* Background image for the site*/
+body {background-image: url("./Images/background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Portfolio image padding*/
+img {padding: 25px;
+    width: 100%;}
