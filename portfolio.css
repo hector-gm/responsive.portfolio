@@ -18,3 +18,9 @@ body {background-image: url("./Images/background.jpg");
 /* Portfolio image padding*/
 img {padding: 25px;
     width: 100%;}
+
+/* 
+footer {position: absolute;
+        bottom: 0;
+        width: 100%;
+    }*/
